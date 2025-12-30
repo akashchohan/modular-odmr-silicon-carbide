@@ -44,4 +44,4 @@ The ODMR platform consists of five modular subsystems:
 ## Block Diagram
 
 ```md
-![ODMR Architecture Diagram](../images/odmr_diagram.png)
+![ODMR Architecture Diagram](/images/odmr_diagram.png)
